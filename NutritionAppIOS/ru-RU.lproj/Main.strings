@@ -1,0 +1,216 @@
+
+/* Class = "UILabel"; text = "Грудь (см)"; ObjectID = "05e-jS-Jmb"; */
+"05e-jS-Jmb.text" = "Грудь (см)";
+
+/* Class = "UITabBarItem"; title = "Активированные"; ObjectID = "0bG-A8-bkb"; */
+"0bG-A8-bkb.title" = "Активированные";
+
+/* Class = "UILabel"; text = " ₽"; ObjectID = "2az-Hk-hyG"; */
+"2az-Hk-hyG.text" = " ₽";
+
+/* Class = "UILabel"; text = "Список отчетов пуст"; ObjectID = "3L2-E1-Pwe"; */
+"3L2-E1-Pwe.text" = "Список отчетов пуст";
+
+/* Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "3f3-lC-os1"; */
+"3f3-lC-os1.text" = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. ";
+
+/* Class = "UILabel"; text = "дата рождения"; ObjectID = "4TC-qR-clJ"; */
+"4TC-qR-clJ.text" = "дата рождения";
+
+/* Class = "UILabel"; text = "Работа с нутрицологом"; ObjectID = "5GP-C8-ZwL"; */
+"5GP-C8-ZwL.text" = "Работа с нутрицологом";
+
+/* Class = "UILabel"; text = "Шея:"; ObjectID = "5oM-mP-n5Y"; */
+"5oM-mP-n5Y.text" = "Шея:";
+
+/* Class = "UITabBarItem"; title = "Выбранные"; ObjectID = "6r9-SO-f3b"; */
+"6r9-SO-f3b.title" = "Выбранные";
+
+/* Class = "UILabel"; text = "Мои отчеты"; ObjectID = "7ts-ug-eUg"; */
+"7ts-ug-eUg.text" = "Мои отчеты";
+
+/* Class = "UILabel"; text = "Талия (см)"; ObjectID = "82v-i5-NW5"; */
+"82v-i5-NW5.text" = "Талия (см)";
+
+/* Class = "UILabel"; text = "Имя"; ObjectID = "8Rd-lS-Fsj"; */
+"8Rd-lS-Fsj.text" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Завершить подписку"; ObjectID = "Bbu-VN-3NK"; */
+"Bbu-VN-3NK.normalTitle" = "Завершить подписку";
+
+/* Class = "UILabel"; text = "35 см"; ObjectID = "BqU-aH-aY9"; */
+"BqU-aH-aY9.text" = "35 см";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "C80-nV-GLB"; */
+"C80-nV-GLB.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "CYY-sL-ACS"; */
+"CYY-sL-ACS.text" = "Мой нутрициолог";
+
+/* Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "DUy-ly-Iza"; */
+"DUy-ly-Iza.text" = "Мой нутрициолог";
+
+/* Class = "UILabel"; text = "Привет!"; ObjectID = "Dpc-sc-Ddw"; */
+"Dpc-sc-Ddw.text" = "Привет!";
+
+/* Class = "UIButton"; normalTitle = "Создать отчет"; ObjectID = "E2N-sL-92W"; */
+"E2N-sL-92W.normalTitle" = "Создать отчет";
+
+/* Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "ECg-7J-MTX"; */
+"ECg-7J-MTX.text" = "Мой нутрициолог";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "EM3-k1-Sbe"; */
+"EM3-k1-Sbe.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Голень (см)"; ObjectID = "GWF-nN-TH9"; */
+"GWF-nN-TH9.text" = "Голень (см)";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "HQM-wb-oSl"; */
+"HQM-wb-oSl.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "Выбрать"; ObjectID = "Hoe-vU-BbY"; */
+"Hoe-vU-BbY.normalTitle" = "Выбрать";
+
+/* Class = "UIButton"; normalTitle = "Подробнее..."; ObjectID = "J1I-WR-8ms"; */
+"J1I-WR-8ms.normalTitle" = "Подробнее...";
+
+/* Class = "UILabel"; text = "e-mail"; ObjectID = "KoS-od-cuE"; */
+"KoS-od-cuE.text" = "e-mail";
+
+/* Class = "UILabel"; text = "Личный кабинет"; ObjectID = "NfN-gc-DxI"; */
+"NfN-gc-DxI.text" = "Личный кабинет";
+
+/* Class = "UILabel"; text = "Комментарий к отчету"; ObjectID = "OA6-19-Zrt"; */
+"OA6-19-Zrt.text" = "Комментарий к отчету";
+
+/* Class = "UILabel"; text = "12-02-2021"; ObjectID = "R5G-6t-gf8"; */
+"R5G-6t-gf8.text" = "12-02-2021";
+
+/* Class = "UILabel"; text = "зездочки"; ObjectID = "Tba-eb-ljh"; */
+"Tba-eb-ljh.text" = "зездочки";
+
+/* Class = "UILabel"; text = "5000"; ObjectID = "Tg3-zb-9p4"; */
+"Tg3-zb-9p4.text" = "5000";
+
+/* Class = "UILabel"; text = "Вес (кг)"; ObjectID = "Ttx-aI-JJo"; */
+"Ttx-aI-JJo.text" = "Вес (кг)";
+
+/* Class = "UILabel"; text = "Вес:"; ObjectID = "Tue-R6-k4J"; */
+"Tue-R6-k4J.text" = "Вес:";
+
+/* Class = "UITabBarItem"; title = "Ожидает активации"; ObjectID = "Vbe-i3-3aJ"; */
+"Vbe-i3-3aJ.title" = "Ожидает активации";
+
+/* Class = "UILabel"; text = "59 см"; ObjectID = "XAd-5X-k1k"; */
+"XAd-5X-k1k.text" = "59 см";
+
+/* Class = "UILabel"; text = "Грудь:"; ObjectID = "aBB-Ak-6Z7"; */
+"aBB-Ak-6Z7.text" = "Грудь:";
+
+/* Class = "UILabel"; text = "Замеры 1"; ObjectID = "aTu-j9-Ueg"; */
+"aTu-j9-Ueg.text" = "Замеры 1";
+
+/* Class = "UITextField"; placeholder = "50"; ObjectID = "amG-pB-GIx"; */
+"amG-pB-GIx.placeholder" = "50";
+
+/* Class = "UILabel"; text = "Талия (см)"; ObjectID = "avL-kh-OxA"; */
+"avL-kh-OxA.text" = "Талия (см)";
+
+/* Class = "UIButton"; normalTitle = "Создать отчет"; ObjectID = "bPe-wl-b6W"; */
+"bPe-wl-b6W.normalTitle" = "Создать отчет";
+
+/* Class = "UILabel"; text = "Голень (см)"; ObjectID = "bbC-1k-ooA"; */
+"bbC-1k-ooA.text" = "Голень (см)";
+
+/* Class = "UILabel"; text = "Выбор \nнутрициолога"; ObjectID = "c49-fo-3Tj"; */
+"c49-fo-3Tj.text" = "Выбор \nнутрициолога";
+
+/* Class = "UILabel"; text = "Создать отчет по питанию"; ObjectID = "dtR-X3-7fV"; */
+"dtR-X3-7fV.text" = "Создать отчет по питанию";
+
+/* Class = "UILabel"; text = "Талия:"; ObjectID = "efc-v7-JtH"; */
+"efc-v7-JtH.text" = "Талия:";
+
+/* Class = "UILabel"; text = "Обучение нутрициологии и натуропатии. \nЛицензия. Диплом\nВрач,систематизатор,натуропат, нутрициолог - 18 лет практики\nОснователь IPNN"; ObjectID = "fjt-wH-3uQ"; */
+"fjt-wH-3uQ.text" = "Обучение нутрициологии и натуропатии. \nЛицензия. Диплом\nВрач,систематизатор,натуропат, нутрициолог - 18 лет практики\nОснователь IPNN";
+
+/* Class = "UILabel"; text = "nutritools@mail.ru"; ObjectID = "fp7-yd-dtf"; */
+"fp7-yd-dtf.text" = "nutritools@mail.ru";
+
+/* Class = "UILabel"; text = "Бедро:"; ObjectID = "hBy-ln-6wB"; */
+"hBy-ln-6wB.text" = "Бедро:";
+
+/* Class = "UILabel"; text = "59 кг"; ObjectID = "hIJ-6e-OeZ"; */
+"hIJ-6e-OeZ.text" = "59 кг";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "hQv-5S-g8k"; */
+"hQv-5S-g8k.placeholder" = "0";
+
+/* Class = "UILabel"; text = "60 см"; ObjectID = "jWD-O5-lUf"; */
+"jWD-O5-lUf.text" = "60 см";
+
+/* Class = "UILabel"; text = "86 см"; ObjectID = "jcv-Hk-e51"; */
+"jcv-Hk-e51.text" = "86 см";
+
+/* Class = "UIButton"; normalTitle = "Добавить замеры"; ObjectID = "jqe-XP-YuZ"; */
+"jqe-XP-YuZ.normalTitle" = "Добавить замеры";
+
+/* Class = "UILabel"; text = "35 см"; ObjectID = "nrh-hS-9d1"; */
+"nrh-hS-9d1.text" = "35 см";
+
+/* Class = "UILabel"; text = "Найди своего нутрициолога"; ObjectID = "or6-MJ-PeT"; */
+"or6-MJ-PeT.text" = "Найди своего нутрициолога";
+
+/* Class = "UILabel"; text = "/мес"; ObjectID = "phB-d3-IS5"; */
+"phB-d3-IS5.text" = "/мес";
+
+/* Class = "UITextView"; text = "Комментарий к отчету"; ObjectID = "rf3-Wy-WnL"; */
+"rf3-Wy-WnL.text" = "Комментарий к отчету";
+
+/* Class = "UILabel"; text = "11-02-2021"; ObjectID = "rqz-yu-KPW"; */
+"rqz-yu-KPW.text" = "11-02-2021";
+
+/* Class = "UILabel"; text = "Мой \nнутрициолог"; ObjectID = "sAH-3p-TO5"; */
+"sAH-3p-TO5.text" = "Мой \nнутрициолог";
+
+/* Class = "UILabel"; text = "Голень:"; ObjectID = "tHB-zy-TYn"; */
+"tHB-zy-TYn.text" = "Голень:";
+
+/* Class = "UILabel"; text = "Список отчетов пуст"; ObjectID = "tjR-bA-UFt"; */
+"tjR-bA-UFt.text" = "Список отчетов пуст";
+
+/* Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "uIV-Pm-gLB"; */
+"uIV-Pm-gLB.text" = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. ";
+
+/* Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "ufa-iO-HUQ"; */
+"ufa-iO-HUQ.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Грудь (см)"; ObjectID = "uxM-q9-J6G"; */
+"uxM-q9-J6G.text" = "Грудь (см)";
+
+/* Class = "UILabel"; text = "Шея (см)"; ObjectID = "vLz-bU-wyq"; */
+"vLz-bU-wyq.text" = "Шея (см)";
+
+/* Class = "UILabel"; text = "4.6"; ObjectID = "vUy-Ri-fAV"; */
+"vUy-Ri-fAV.text" = "4.6";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "w0F-xd-dr4"; */
+"w0F-xd-dr4.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Бедро (см)"; ObjectID = "x2n-Bm-9Og"; */
+"x2n-Bm-9Og.text" = "Бедро (см)";
+
+/* Class = "UILabel"; text = "Бедро (см)"; ObjectID = "y3m-6v-3Co"; */
+"y3m-6v-3Co.text" = "Бедро (см)";
+
+/* Class = "UILabel"; text = "Создать отчет по питанию"; ObjectID = "z76-kw-FOA"; */
+"z76-kw-FOA.text" = "Создать отчет по питанию";
+
+/* Class = "UILabel"; text = "Вес (кг)"; ObjectID = "zHt-T7-bPV"; */
+"zHt-T7-bPV.text" = "Вес (кг)";
+
+/* Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "zn8-7d-6e5"; */
+"zn8-7d-6e5.text" = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. ";
+
+/* Class = "UILabel"; text = "Шея (см)"; ObjectID = "zsu-Hx-q31"; */
+"zsu-Hx-q31.text" = "Шея (см)";

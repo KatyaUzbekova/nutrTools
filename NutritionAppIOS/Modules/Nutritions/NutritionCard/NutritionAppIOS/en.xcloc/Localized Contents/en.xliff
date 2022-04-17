@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="NutritionAppIOS/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="oZ9-2b-YSw.text" xml:space="preserve">
+        <source>NutrTools</source>
+        <target>NutrTools</target>
+        <note>Class = "UILabel"; text = "NutrTools"; ObjectID = "oZ9-2b-YSw";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NutritionAppIOS/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="0bG-A8-bkb.title" xml:space="preserve">
+        <source>Активированные</source>
+        <target>Активированные</target>
+        <note>Class = "UITabBarItem"; title = "Активированные"; ObjectID = "0bG-A8-bkb";</note>
+      </trans-unit>
+      <trans-unit id="2az-Hk-hyG.text" xml:space="preserve">
+        <source> ₽</source>
+        <target> ₽</target>
+        <note>Class = "UILabel"; text = " ₽"; ObjectID = "2az-Hk-hyG";</note>
+      </trans-unit>
+      <trans-unit id="3L2-E1-Pwe.text" xml:space="preserve">
+        <source>Список отчетов пуст</source>
+        <target>Список отчетов пуст</target>
+        <note>Class = "UILabel"; text = "Список отчетов пуст"; ObjectID = "3L2-E1-Pwe";</note>
+      </trans-unit>
+      <trans-unit id="3f3-lC-os1.text" xml:space="preserve">
+        <source>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </source>
+        <target>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </target>
+        <note>Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "3f3-lC-os1";</note>
+      </trans-unit>
+      <trans-unit id="4TC-qR-clJ.text" xml:space="preserve">
+        <source>дата рождения</source>
+        <target>дата рождения</target>
+        <note>Class = "UILabel"; text = "дата рождения"; ObjectID = "4TC-qR-clJ";</note>
+      </trans-unit>
+      <trans-unit id="5GP-C8-ZwL.text" xml:space="preserve">
+        <source>Работа с нутрицологом</source>
+        <target>Работа с нутрицологом</target>
+        <note>Class = "UILabel"; text = "Работа с нутрицологом"; ObjectID = "5GP-C8-ZwL";</note>
+      </trans-unit>
+      <trans-unit id="05e-jS-Jmb.text" xml:space="preserve">
+        <source>Грудь (см)</source>
+        <target>Грудь (см)</target>
+        <note>Class = "UILabel"; text = "Грудь (см)"; ObjectID = "05e-jS-Jmb";</note>
+      </trans-unit>
+      <trans-unit id="5oM-mP-n5Y.text" xml:space="preserve">
+        <source>Шея:</source>
+        <target>Шея:</target>
+        <note>Class = "UILabel"; text = "Шея:"; ObjectID = "5oM-mP-n5Y";</note>
+      </trans-unit>
+      <trans-unit id="6r9-SO-f3b.title" xml:space="preserve">
+        <source>Выбранные</source>
+        <target>Выбранные</target>
+        <note>Class = "UITabBarItem"; title = "Выбранные"; ObjectID = "6r9-SO-f3b";</note>
+      </trans-unit>
+      <trans-unit id="7ts-ug-eUg.text" xml:space="preserve">
+        <source>Мои отчеты</source>
+        <target>Мои отчеты</target>
+        <note>Class = "UILabel"; text = "Мои отчеты"; ObjectID = "7ts-ug-eUg";</note>
+      </trans-unit>
+      <trans-unit id="8Rd-lS-Fsj.text" xml:space="preserve">
+        <source>Имя</source>
+        <target>Имя</target>
+        <note>Class = "UILabel"; text = "Имя"; ObjectID = "8Rd-lS-Fsj";</note>
+      </trans-unit>
+      <trans-unit id="82v-i5-NW5.text" xml:space="preserve">
+        <source>Талия (см)</source>
+        <target>Талия (см)</target>
+        <note>Class = "UILabel"; text = "Талия (см)"; ObjectID = "82v-i5-NW5";</note>
+      </trans-unit>
+      <trans-unit id="Bbu-VN-3NK.normalTitle" xml:space="preserve">
+        <source>Завершить подписку</source>
+        <target>Завершить подписку</target>
+        <note>Class = "UIButton"; normalTitle = "Завершить подписку"; ObjectID = "Bbu-VN-3NK";</note>
+      </trans-unit>
+      <trans-unit id="BqU-aH-aY9.text" xml:space="preserve">
+        <source>35 см</source>
+        <target>35 см</target>
+        <note>Class = "UILabel"; text = "35 см"; ObjectID = "BqU-aH-aY9";</note>
+      </trans-unit>
+      <trans-unit id="C80-nV-GLB.placeholder" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UITextField"; placeholder = "0"; ObjectID = "C80-nV-GLB";</note>
+      </trans-unit>
+      <trans-unit id="CYY-sL-ACS.text" xml:space="preserve">
+        <source>Мой нутрициолог</source>
+        <target>Мой нутрициолог</target>
+        <note>Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "CYY-sL-ACS";</note>
+      </trans-unit>
+      <trans-unit id="DUy-ly-Iza.text" xml:space="preserve">
+        <source>Мой нутрициолог</source>
+        <target>Мой нутрициолог</target>
+        <note>Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "DUy-ly-Iza";</note>
+      </trans-unit>
+      <trans-unit id="Dpc-sc-Ddw.text" xml:space="preserve">
+        <source>Привет!</source>
+        <target>Привет!</target>
+        <note>Class = "UILabel"; text = "Привет!"; ObjectID = "Dpc-sc-Ddw";</note>
+      </trans-unit>
+      <trans-unit id="E2N-sL-92W.normalTitle" xml:space="preserve">
+        <source>Создать отчет</source>
+        <target>Создать отчет</target>
+        <note>Class = "UIButton"; normalTitle = "Создать отчет"; ObjectID = "E2N-sL-92W";</note>
+      </trans-unit>
+      <trans-unit id="ECg-7J-MTX.text" xml:space="preserve">
+        <source>Мой нутрициолог</source>
+        <target>Мой нутрициолог</target>
+        <note>Class = "UILabel"; text = "Мой нутрициолог"; ObjectID = "ECg-7J-MTX";</note>
+      </trans-unit>
+      <trans-unit id="EM3-k1-Sbe.placeholder" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UITextField"; placeholder = "0"; ObjectID = "EM3-k1-Sbe";</note>
+      </trans-unit>
+      <trans-unit id="GWF-nN-TH9.text" xml:space="preserve">
+        <source>Голень (см)</source>
+        <target>Голень (см)</target>
+        <note>Class = "UILabel"; text = "Голень (см)"; ObjectID = "GWF-nN-TH9";</note>
+      </trans-unit>
+      <trans-unit id="HQM-wb-oSl.placeholder" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UITextField"; placeholder = "0"; ObjectID = "HQM-wb-oSl";</note>
+      </trans-unit>
+      <trans-unit id="Hoe-vU-BbY.normalTitle" xml:space="preserve">
+        <source>Выбрать</source>
+        <target>Выбрать</target>
+        <note>Class = "UIButton"; normalTitle = "Выбрать"; ObjectID = "Hoe-vU-BbY";</note>
+      </trans-unit>
+      <trans-unit id="J1I-WR-8ms.normalTitle" xml:space="preserve">
+        <source>Подробнее...</source>
+        <target>Подробнее...</target>
+        <note>Class = "UIButton"; normalTitle = "Подробнее..."; ObjectID = "J1I-WR-8ms";</note>
+      </trans-unit>
+      <trans-unit id="KoS-od-cuE.text" xml:space="preserve">
+        <source>e-mail</source>
+        <target>e-mail</target>
+        <note>Class = "UILabel"; text = "e-mail"; ObjectID = "KoS-od-cuE";</note>
+      </trans-unit>
+      <trans-unit id="NfN-gc-DxI.text" xml:space="preserve">
+        <source>Личный кабинет</source>
+        <target>Личный кабинет</target>
+        <note>Class = "UILabel"; text = "Личный кабинет"; ObjectID = "NfN-gc-DxI";</note>
+      </trans-unit>
+      <trans-unit id="OA6-19-Zrt.text" xml:space="preserve">
+        <source>Комментарий к отчету</source>
+        <target>Комментарий к отчету</target>
+        <note>Class = "UILabel"; text = "Комментарий к отчету"; ObjectID = "OA6-19-Zrt";</note>
+      </trans-unit>
+      <trans-unit id="R5G-6t-gf8.text" xml:space="preserve">
+        <source>12-02-2021</source>
+        <target>12-02-2021</target>
+        <note>Class = "UILabel"; text = "12-02-2021"; ObjectID = "R5G-6t-gf8";</note>
+      </trans-unit>
+      <trans-unit id="Tba-eb-ljh.text" xml:space="preserve">
+        <source>зездочки</source>
+        <target>зездочки</target>
+        <note>Class = "UILabel"; text = "зездочки"; ObjectID = "Tba-eb-ljh";</note>
+      </trans-unit>
+      <trans-unit id="Tg3-zb-9p4.text" xml:space="preserve">
+        <source>5000</source>
+        <target>5000</target>
+        <note>Class = "UILabel"; text = "5000"; ObjectID = "Tg3-zb-9p4";</note>
+      </trans-unit>
+      <trans-unit id="Ttx-aI-JJo.text" xml:space="preserve">
+        <source>Вес (кг)</source>
+        <target>Вес (кг)</target>
+        <note>Class = "UILabel"; text = "Вес (кг)"; ObjectID = "Ttx-aI-JJo";</note>
+      </trans-unit>
+      <trans-unit id="Tue-R6-k4J.text" xml:space="preserve">
+        <source>Вес:</source>
+        <target>Вес:</target>
+        <note>Class = "UILabel"; text = "Вес:"; ObjectID = "Tue-R6-k4J";</note>
+      </trans-unit>
+      <trans-unit id="Vbe-i3-3aJ.title" xml:space="preserve">
+        <source>Ожидает активации</source>
+        <target>Ожидает активации</target>
+        <note>Class = "UITabBarItem"; title = "Ожидает активации"; ObjectID = "Vbe-i3-3aJ";</note>
+      </trans-unit>
+      <trans-unit id="XAd-5X-k1k.text" xml:space="preserve">
+        <source>59 см</source>
+        <target>59 см</target>
+        <note>Class = "UILabel"; text = "59 см"; ObjectID = "XAd-5X-k1k";</note>
+      </trans-unit>
+      <trans-unit id="aBB-Ak-6Z7.text" xml:space="preserve">
+        <source>Грудь:</source>
+        <target>Грудь:</target>
+        <note>Class = "UILabel"; text = "Грудь:"; ObjectID = "aBB-Ak-6Z7";</note>
+      </trans-unit>
+      <trans-unit id="aTu-j9-Ueg.text" xml:space="preserve">
+        <source>Замеры 1</source>
+        <target>Замеры 1</target>
+        <note>Class = "UILabel"; text = "Замеры 1"; ObjectID = "aTu-j9-Ueg";</note>
+      </trans-unit>
+      <trans-unit id="amG-pB-GIx.placeholder" xml:space="preserve">
+        <source>50</source>
+        <target>50</target>
+        <note>Class = "UITextField"; placeholder = "50"; ObjectID = "amG-pB-GIx";</note>
+      </trans-unit>
+      <trans-unit id="avL-kh-OxA.text" xml:space="preserve">
+        <source>Талия (см)</source>
+        <target>Талия (см)</target>
+        <note>Class = "UILabel"; text = "Талия (см)"; ObjectID = "avL-kh-OxA";</note>
+      </trans-unit>
+      <trans-unit id="bPe-wl-b6W.normalTitle" xml:space="preserve">
+        <source>Создать отчет</source>
+        <target>Создать отчет</target>
+        <note>Class = "UIButton"; normalTitle = "Создать отчет"; ObjectID = "bPe-wl-b6W";</note>
+      </trans-unit>
+      <trans-unit id="bbC-1k-ooA.text" xml:space="preserve">
+        <source>Голень (см)</source>
+        <target>Голень (см)</target>
+        <note>Class = "UILabel"; text = "Голень (см)"; ObjectID = "bbC-1k-ooA";</note>
+      </trans-unit>
+      <trans-unit id="c49-fo-3Tj.text" xml:space="preserve">
+        <source>Выбор 
+нутрициолога</source>
+        <target>Выбор 
+нутрициолога</target>
+        <note>Class = "UILabel"; text = "Выбор \nнутрициолога"; ObjectID = "c49-fo-3Tj";</note>
+      </trans-unit>
+      <trans-unit id="dtR-X3-7fV.text" xml:space="preserve">
+        <source>Создать отчет по питанию</source>
+        <target>Создать отчет по питанию</target>
+        <note>Class = "UILabel"; text = "Создать отчет по питанию"; ObjectID = "dtR-X3-7fV";</note>
+      </trans-unit>
+      <trans-unit id="efc-v7-JtH.text" xml:space="preserve">
+        <source>Талия:</source>
+        <target>Талия:</target>
+        <note>Class = "UILabel"; text = "Талия:"; ObjectID = "efc-v7-JtH";</note>
+      </trans-unit>
+      <trans-unit id="fjt-wH-3uQ.text" xml:space="preserve">
+        <source>Обучение нутрициологии и натуропатии. 
+Лицензия. Диплом
+Врач,систематизатор,натуропат, нутрициолог - 18 лет практики
+Основатель IPNN</source>
+        <target>Обучение нутрициологии и натуропатии. 
+Лицензия. Диплом
+Врач,систематизатор,натуропат, нутрициолог - 18 лет практики
+Основатель IPNN</target>
+        <note>Class = "UILabel"; text = "Обучение нутрициологии и натуропатии. \nЛицензия. Диплом\nВрач,систематизатор,натуропат, нутрициолог - 18 лет практики\nОснователь IPNN"; ObjectID = "fjt-wH-3uQ";</note>
+      </trans-unit>
+      <trans-unit id="fp7-yd-dtf.text" xml:space="preserve">
+        <source>nutritools@mail.ru</source>
+        <target>nutritools@mail.ru</target>
+        <note>Class = "UILabel"; text = "nutritools@mail.ru"; ObjectID = "fp7-yd-dtf";</note>
+      </trans-unit>
+      <trans-unit id="hBy-ln-6wB.text" xml:space="preserve">
+        <source>Бедро:</source>
+        <target>Бедро:</target>
+        <note>Class = "UILabel"; text = "Бедро:"; ObjectID = "hBy-ln-6wB";</note>
+      </trans-unit>
+      <trans-unit id="hIJ-6e-OeZ.text" xml:space="preserve">
+        <source>59 кг</source>
+        <target>59 кг</target>
+        <note>Class = "UILabel"; text = "59 кг"; ObjectID = "hIJ-6e-OeZ";</note>
+      </trans-unit>
+      <trans-unit id="hQv-5S-g8k.placeholder" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UITextField"; placeholder = "0"; ObjectID = "hQv-5S-g8k";</note>
+      </trans-unit>
+      <trans-unit id="jWD-O5-lUf.text" xml:space="preserve">
+        <source>60 см</source>
+        <target>60 см</target>
+        <note>Class = "UILabel"; text = "60 см"; ObjectID = "jWD-O5-lUf";</note>
+      </trans-unit>
+      <trans-unit id="jcv-Hk-e51.text" xml:space="preserve">
+        <source>86 см</source>
+        <target>86 см</target>
+        <note>Class = "UILabel"; text = "86 см"; ObjectID = "jcv-Hk-e51";</note>
+      </trans-unit>
+      <trans-unit id="jqe-XP-YuZ.normalTitle" xml:space="preserve">
+        <source>Добавить замеры</source>
+        <target>Добавить замеры</target>
+        <note>Class = "UIButton"; normalTitle = "Добавить замеры"; ObjectID = "jqe-XP-YuZ";</note>
+      </trans-unit>
+      <trans-unit id="nrh-hS-9d1.text" xml:space="preserve">
+        <source>35 см</source>
+        <target>35 см</target>
+        <note>Class = "UILabel"; text = "35 см"; ObjectID = "nrh-hS-9d1";</note>
+      </trans-unit>
+      <trans-unit id="or6-MJ-PeT.text" xml:space="preserve">
+        <source>Найди своего нутрициолога</source>
+        <target>Найди своего нутрициолога</target>
+        <note>Class = "UILabel"; text = "Найди своего нутрициолога"; ObjectID = "or6-MJ-PeT";</note>
+      </trans-unit>
+      <trans-unit id="phB-d3-IS5.text" xml:space="preserve">
+        <source>/мес</source>
+        <target>/мес</target>
+        <note>Class = "UILabel"; text = "/мес"; ObjectID = "phB-d3-IS5";</note>
+      </trans-unit>
+      <trans-unit id="rf3-Wy-WnL.text" xml:space="preserve">
+        <source>Комментарий к отчету</source>
+        <target>Комментарий к отчету</target>
+        <note>Class = "UITextView"; text = "Комментарий к отчету"; ObjectID = "rf3-Wy-WnL";</note>
+      </trans-unit>
+      <trans-unit id="rqz-yu-KPW.text" xml:space="preserve">
+        <source>11-02-2021</source>
+        <target>11-02-2021</target>
+        <note>Class = "UILabel"; text = "11-02-2021"; ObjectID = "rqz-yu-KPW";</note>
+      </trans-unit>
+      <trans-unit id="sAH-3p-TO5.text" xml:space="preserve">
+        <source>Мой 
+нутрициолог</source>
+        <target>Мой 
+нутрициолог</target>
+        <note>Class = "UILabel"; text = "Мой \nнутрициолог"; ObjectID = "sAH-3p-TO5";</note>
+      </trans-unit>
+      <trans-unit id="tHB-zy-TYn.text" xml:space="preserve">
+        <source>Голень:</source>
+        <target>Голень:</target>
+        <note>Class = "UILabel"; text = "Голень:"; ObjectID = "tHB-zy-TYn";</note>
+      </trans-unit>
+      <trans-unit id="tjR-bA-UFt.text" xml:space="preserve">
+        <source>Список отчетов пуст</source>
+        <target>Список отчетов пуст</target>
+        <note>Class = "UILabel"; text = "Список отчетов пуст"; ObjectID = "tjR-bA-UFt";</note>
+      </trans-unit>
+      <trans-unit id="uIV-Pm-gLB.text" xml:space="preserve">
+        <source>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </source>
+        <target>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </target>
+        <note>Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "uIV-Pm-gLB";</note>
+      </trans-unit>
+      <trans-unit id="ufa-iO-HUQ.normalTitle" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Сохранить</target>
+        <note>Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "ufa-iO-HUQ";</note>
+      </trans-unit>
+      <trans-unit id="uxM-q9-J6G.text" xml:space="preserve">
+        <source>Грудь (см)</source>
+        <target>Грудь (см)</target>
+        <note>Class = "UILabel"; text = "Грудь (см)"; ObjectID = "uxM-q9-J6G";</note>
+      </trans-unit>
+      <trans-unit id="vLz-bU-wyq.text" xml:space="preserve">
+        <source>Шея (см)</source>
+        <target>Шея (см)</target>
+        <note>Class = "UILabel"; text = "Шея (см)"; ObjectID = "vLz-bU-wyq";</note>
+      </trans-unit>
+      <trans-unit id="vUy-Ri-fAV.text" xml:space="preserve">
+        <source>4.6</source>
+        <target>4.6</target>
+        <note>Class = "UILabel"; text = "4.6"; ObjectID = "vUy-Ri-fAV";</note>
+      </trans-unit>
+      <trans-unit id="w0F-xd-dr4.placeholder" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UITextField"; placeholder = "0"; ObjectID = "w0F-xd-dr4";</note>
+      </trans-unit>
+      <trans-unit id="x2n-Bm-9Og.text" xml:space="preserve">
+        <source>Бедро (см)</source>
+        <target>Бедро (см)</target>
+        <note>Class = "UILabel"; text = "Бедро (см)"; ObjectID = "x2n-Bm-9Og";</note>
+      </trans-unit>
+      <trans-unit id="y3m-6v-3Co.text" xml:space="preserve">
+        <source>Бедро (см)</source>
+        <target>Бедро (см)</target>
+        <note>Class = "UILabel"; text = "Бедро (см)"; ObjectID = "y3m-6v-3Co";</note>
+      </trans-unit>
+      <trans-unit id="z76-kw-FOA.text" xml:space="preserve">
+        <source>Создать отчет по питанию</source>
+        <target>Создать отчет по питанию</target>
+        <note>Class = "UILabel"; text = "Создать отчет по питанию"; ObjectID = "z76-kw-FOA";</note>
+      </trans-unit>
+      <trans-unit id="zHt-T7-bPV.text" xml:space="preserve">
+        <source>Вес (кг)</source>
+        <target>Вес (кг)</target>
+        <note>Class = "UILabel"; text = "Вес (кг)"; ObjectID = "zHt-T7-bPV";</note>
+      </trans-unit>
+      <trans-unit id="zn8-7d-6e5.text" xml:space="preserve">
+        <source>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </source>
+        <target>Список  пуст. 
+Ваш нутрицолог пока не активировал доступ. </target>
+        <note>Class = "UILabel"; text = "Список  пуст. \nВаш нутрицолог пока не активировал доступ. "; ObjectID = "zn8-7d-6e5";</note>
+      </trans-unit>
+      <trans-unit id="zsu-Hx-q31.text" xml:space="preserve">
+        <source>Шея (см)</source>
+        <target>Шея (см)</target>
+        <note>Class = "UILabel"; text = "Шея (см)"; ObjectID = "zsu-Hx-q31";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="NutritionAppIOS/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.4" build-num="12D4e"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>NutritionAppIOS</source>
+        <target>NutritionAppIOS</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>This app requires to access your photo library to show image on profile and send via chat</source>
+        <target>This app requires to access your photo library to show image on profile and send via chat</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  NutritionAppIOS
+
+  Created by Екатерина Узбекова on 18.04.2021.
+  
+*/
+"UserProfilePresenter.Label.NameLogo" = "Hello, %@!";
+"MeasurementsTableViewCell.MeasurementsNumber" = "Замеры 1";
+"ImagePicker.Action.TakeAPhoto" = "Сделать фотографию";
+"ImagePicker.Action.ChoosePhoto" = "Выбрать фотографию";
+"ImagePicker.Action.Cancel" = "Отменить";
+
+"AllChatsPageViewController.Action.Nutrition" = "Вы не выбрали своего нутрициолога";
+"AllChatsPageViewController.Action.SelectNutrtion" = "Выбрать нутрициолога";
+"AllChatsPageViewController.Action.Return" = "Выйти";
+
+"CheckDataCorrectness" = "Проверьте введенные данные";
+
+// RegistrationViewController
+"RegistrationViewController.Alert.FillAllTheSpaces" = "Пожалуйста, заполните все поля";
+"RegistrationViewController.Action.CreateAnAccount" = "Создать аккаунт";
+"RegistrationViewController.Label.Agreement" = "Условия пользовательского соглашения мною изучены и приняты";
+"RegistrationViewController.Text.AgreementName" = "Условия пользовательского соглашения";
+
+"Genders.Woman" = "Женский";
+"Genders.Man" = "Мужской";
+
+"TransformationCreationRouter.Ok" = "Ok";

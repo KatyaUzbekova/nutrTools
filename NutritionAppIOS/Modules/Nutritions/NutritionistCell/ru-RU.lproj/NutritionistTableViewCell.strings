@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "300 ₽/мес"; ObjectID = "11d-1o-Yvo"; */
+"11d-1o-Yvo.text" = "300 ₽/мес";
+
+/* Class = "UILabel"; text = "Илья Пешков"; ObjectID = "3Ag-9J-1kx"; */
+"3Ag-9J-1kx.text" = "Илья Пешков";
+
+/* Class = "UILabel"; text = "ip8713@gmail.com"; ObjectID = "3VA-9Z-c8E"; */
+"3VA-9Z-c8E.text" = "ip8713@gmail.com";
+
+/* Class = "UILabel"; text = "Заявка поступила: 03-03-2021"; ObjectID = "46j-s7-9YD"; */
+"46j-s7-9YD.text" = "Заявка поступила: 03-03-2021";
+
+/* Class = "UILabel"; text = "16.06.1995"; ObjectID = "hE6-Nj-8rr"; */
+"hE6-Nj-8rr.text" = "16.06.1995";
+
+/* Class = "UIButton"; normalTitle = "Принять"; ObjectID = "vcV-Mw-OhB"; */
+"vcV-Mw-OhB.normalTitle" = "Принять";

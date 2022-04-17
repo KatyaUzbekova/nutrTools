@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "NutritionAppIOS";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "This app requires to access your photo library to show image on profile and send via chat";
